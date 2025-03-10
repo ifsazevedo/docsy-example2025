@@ -44,12 +44,21 @@ imaging:
 
 # Language configuration
 languages:
+  'pt':
+    languageName: Portuguese
+    contentDir: content/pt
+    title: Goldydocs
+    params:
+      description: Um sitio Web Docsy
+      time_format_default: 02.01.2006
+      time_format_blog: 02.01.2006
   en:
     languageName: English
     title: Goldydocs
     params:
       description: A Docsy example site
   # cSpell:disable
+
   'no':
     languageName: Norsk
     contentDir: content/no
