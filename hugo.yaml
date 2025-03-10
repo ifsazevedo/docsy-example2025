@@ -4,8 +4,8 @@ title: Goldydocs
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
-contentDir: content/en
-defaultContentLanguage: en
+contentDir: content/pt
+defaultContentLanguage: pt
 defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
@@ -54,6 +54,7 @@ languages:
       time_format_blog: 02.01.2006
   en:
     languageName: English
+    contentDir: content/en
     title: Goldydocs
     params:
       description: A Docsy example site

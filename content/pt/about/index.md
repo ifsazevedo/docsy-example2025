@@ -4,7 +4,7 @@ linkTitle: Sobre
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Sobre Goldydocs" image_anchor="bottom" height="auto" %}}
 
 Sobre o Goldydocs
 {.mt-5}
